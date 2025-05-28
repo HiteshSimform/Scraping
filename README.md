@@ -135,3 +135,9 @@ web_scraper/
 | Stock Data           | Scraping financial info and tickers                      |
 
 ---
+
+Multi Tanancy
+Django Tanent
+jenkins
+ci/cd
+Scalability
