@@ -141,3 +141,9 @@ Django Tanent
 jenkins
 ci/cd
 Scalability
+
+
+
+web hook vs calllback
+
+service-to-service authentication
